@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://github.com/vk-vasanth-vk/vk-vasanth-vk/blob/main/git_banner.svg" width="100%" />
+
 
 <!--
 **vk-vasanth-vk/vk-vasanth-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
